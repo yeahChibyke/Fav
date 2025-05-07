@@ -1,0 +1,3 @@
+- Deployed Vyper contract from raw Python using Web3py
+- Encrypted private key locally and used it to sign txns
+- Set up RPC with Alchemy
